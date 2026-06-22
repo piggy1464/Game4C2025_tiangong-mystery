@@ -28,9 +28,7 @@
 
 ## 📁 目录说明
 ├── docs/ 设计与开发文档、官方文件
-├── presentation/ 答辩 PPT、路演视频 
-├── release/ 可执行程序（exe 打包） 
-├── assets/ 部分素材、导入的unitypackage
+├── release/ 可执行程序（exe 打包）、答辩 PPT、路演视频 、部分素材、导入的unitypackage
 
 ## ❗  部分场景展示
 封面
