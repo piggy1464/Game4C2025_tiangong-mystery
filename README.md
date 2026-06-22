@@ -47,6 +47,6 @@
 
 
 **奖状**
-<img width="1040" height="585<img width="1789" height="1280" alt="2025计算机设计大赛国家级二等奖" src="https://github.com/user-attachments/assets/3daaaa59-8024-438a-a991-f05bace7c59f" />
+<img width="1789" height="1280" alt="2025计算机设计大赛国家级二等奖" src="https://github.com/user-attachments/assets/3daaaa59-8024-438a-a991-f05bace7c59f" />
 <img width="2247" height="1604" alt="2025计算机程序设计大赛云南省一等奖" src="https://github.com/user-attachments/assets/b44778b4-efec-49a9-9224-42c3be3f4f2c" />
 
