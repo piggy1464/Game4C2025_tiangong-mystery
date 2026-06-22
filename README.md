@@ -43,8 +43,8 @@
 <img width="871" height="543" alt="image" src="https://github.com/user-attachments/assets/6cb1b6d8-0e7b-445d-ba3a-4bc95ea9fb6d" />
 
 **结尾动画**
+<img width="1212" height="651" alt="image" src="https://github.com/user-attachments/assets/82e2bd9f-55d9-45b7-858a-deb807448ed0" />
 
-" alt="image" src="https://github.com/user-attachments/assets/9132aff9-8e90-49a9-ac42-87c6d3a9d428" />
 
 **奖状**
 <img width="1040" height="585<img width="1789" height="1280" alt="2025计算机设计大赛国家级二等奖" src="https://github.com/user-attachments/assets/3daaaa59-8024-438a-a991-f05bace7c59f" />
